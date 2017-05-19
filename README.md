@@ -9,4 +9,4 @@ freeRTOS taipei workshop example
 1. [lab3](lab3/) : [freeRTOS workshop 讀書會 #3](http://freertos.kktix.cc/events/9aafb3c1-b4e121-027966)
    1. [Slides - freeRTOS QUEUE MANAGEMENT ](http://tech.jyyan.info/slides/freeRTOS-Queue-Management/), speaker : JunYuan Yan
 1. [lab6](lab6/) : [freeRTOS workshop 讀書會 #6](http://freertos.kktix.cc/events/9aafb3c1-b4e121-027966)
-   1. [Slides - freeRTOS QUEUE MANAGEMENT ](https://www.slideshare.net/ssuser7bffc6/free-rtos-workshop6), speaker : Link Chen
+   1. [Slides - freeRTOS Resource Management ](https://www.slideshare.net/ssuser7bffc6/free-rtos-workshop6), speaker : Link Chen
