@@ -14,5 +14,5 @@ freeRTOS taipei workshop example
    
 1. [lab6](lab6/) : [freeRTOS workshop 讀書會 #6](http://freertos.kktix.cc/events/9aafb3c1-b4e121-027966)
    1. [Slides - freeRTOS Resource Management ](https://www.slideshare.net/ssuser7bffc6/free-rtos-workshop6), speaker : Link Chen
-1. [lab7](lab7/) : [freeRTOS workshop 讀書會 #7]
+1. [lab7](Lab7_example_code/) : [freeRTOS workshop 讀書會 #7]
    1. [FreeRTOS - Event Groups ](https://1drv.ms/p/s!AmzP4Pt1MRrhiAFIW1gV8NlfLcOn), speaker : Kate Huang
