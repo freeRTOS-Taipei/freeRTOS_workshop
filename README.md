@@ -17,4 +17,4 @@ freeRTOS taipei workshop example
 1. [lab7](Lab7_example_code/) : [freeRTOS workshop 讀書會 #7]
    1. [FreeRTOS - Event Groups ](https://1drv.ms/p/s!AmzP4Pt1MRrhiAFIW1gV8NlfLcOn), speaker : Kate Huang
 1. [lab8](Lab8_example_code/) : [freeRTOS workshop 讀書會 #8]
-   1. [FreeRTOS - Task Notification ](https://www.slideshare.net/ssuser7bffc6/free-rtos-workshop8), speaker : Link Chen
+   1. [FreeRTOS - Task Notification ](https://www.slideshare.net/ssuser7bffc6/free-rtos-workshop8), speaker : Link Chen
